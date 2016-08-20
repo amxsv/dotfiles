@@ -26,7 +26,7 @@ alias docker_runit_here='docker run -v $(PWD):/app -w /app -it --rm $@'
 alias dpsa='docker ps -a'
 
 # wp-cli completion script
-source /Users/maksim/.wp-completion.bash
+source ~/.wp-completion.bash
 
 # Vagrant aliases
 alias v='vagrant'
